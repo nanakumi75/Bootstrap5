@@ -1,0 +1,14 @@
+#logo{
+    width:90px;
+    border-radius: 5px;
+    height: 90px;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+ul li a{
+    color:white !important;
+    font-size: 20px !important;
+}
